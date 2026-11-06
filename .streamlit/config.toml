@@ -1,0 +1,35 @@
+[theme]
+base = "dark"
+
+# Palette
+# Charcoal Black  #171717 — main canvas
+# Forest Green    #06110C — sidebar / secondary surfaces
+# Crimson Red     #A31C1B — primary accent (buttons, links, active elements)
+
+primaryColor             = "#A31C1B"
+backgroundColor          = "#171717"
+secondaryBackgroundColor = "#0E1E12"
+textColor                = "#E8E8E8"
+borderColor              = "#2A2A2A"
+linkColor                = "#C4302B"
+codeBackgroundColor      = "#0E1E12"
+font                     = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+baseRadius               = "medium"
+buttonRadius             = "medium"
+showWidgetBorder         = true
+showSidebarBorder        = false
+linkUnderline            = false
+paddingTop               = "1rem"
+paddingBottom            = "2rem"
+
+[theme.sidebar]
+backgroundColor          = "#06110C"
+secondaryBackgroundColor = "#0E1E12"
+textColor                = "#D4D4D4"
+borderColor              = "#1C2E20"
+primaryColor             = "#A31C1B"
+linkColor                = "#C4302B"
+codeBackgroundColor      = "#0E1E12"
+showWidgetBorder         = true
+paddingTop               = "1rem"
+paddingBottom            = "1.5rem"

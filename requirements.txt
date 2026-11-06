@@ -1,0 +1,9 @@
+ddgs>=9.16.0
+duckduckgo-search>=7.0.0
+trafilatura>=2.0.0
+ollama>=0.4.0
+crawl4ai>=0.4.0
+streamlit>=1.38.0
+pandas>=2.2.0
+requests>=2.32.0
+python-dotenv>=1.0.0
